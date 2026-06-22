@@ -139,3 +139,5 @@ os.environ['ANTHROPIC_API_KEY'] = 'sk-ant-...'
 
 ## ⚠️ Disclaimer
 This project is for **educational purposes only**. Do not use ML model signals for actual trading decisions.
+## Copyright
+Made by Rudra Abhishek
